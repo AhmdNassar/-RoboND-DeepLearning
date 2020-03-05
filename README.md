@@ -12,7 +12,6 @@
 7. Model Training.
 8. Model Prediction.
 9. Model Evaluation.
-10. Different Object Detections.
 
 # 1 - Project overview
 
